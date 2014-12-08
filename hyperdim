@@ -1,0 +1,15 @@
+
+[indentation]
+indent_width=4
+indent_type=1
+indent_hard_tab_width=8
+detect_indent=false
+indent_mode=2
+
+[project]
+name=hyperdim
+base_path=/home/boris/pythonic/hyperdimensions
+make_in_base_path=false
+
+[files]
+current_page=0
